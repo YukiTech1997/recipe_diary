@@ -1,4 +1,4 @@
-# Photobook
+# Recipe Diary
 CodejumpのRecipe Diaryの模写コーディングをしました。(著作権フリーです。)
 デザイン引用元　URL https://code-jump.com/html/
 使用素材：サイト配布のフリー素材を使用
